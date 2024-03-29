@@ -7,7 +7,7 @@
 ## 環境
 - Minecraft 1.12.2
 - CleanroomLoader 15.24.0.3034
-- Fugue 
+- Fugue 0.12.1-beta
 
 ## 目次
 - [基礎Mod](#基礎Mod)
@@ -17,4 +17,5 @@
 鬼畜とは関係ありませんが軽量化やバグ修正など入れておいたほうが良いModです。
 |Mod|説明|前提Mod|解説|
 |---|---|---|---|
+|[Fugue]()|CleanroomLoaderで壊れたModを修正するMod|||
 

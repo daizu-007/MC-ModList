@@ -7,7 +7,7 @@
 
 ## 目次
   
-- [基礎Mod](#基礎Mod)
+- [Mineを鬼畜にするMod](#Mineを鬼畜にするMod)
 - [未分類](#未分類)
   
 ## Modリスト
@@ -30,3 +30,6 @@ MinecraftのMine(採掘)を鬼畜にするModです。
 |[AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore)|本来は食料関連のAPI ModだがBetter With Everythingと組み合わせると満腹度の難易度が非常に高くなる。満腹度の減少速度は早くなり脂肪の概念も追加される|なし||
 |[Hardcore Buoyance](https://www.curseforge.com/minecraft/mc-mods/hardcore-buoyance)|アイテムの重さに応じて浮力が付与されるMod。松明で呼吸しようとすると浮いていってしまう。|なし||
 |[Bionisation 3](https://www.curseforge.com/minecraft/mc-mods/bionisation-3)|ウイルスやバクテリアを追加するMod。モブがランダムに感染した状態でスポーンし、攻撃や接触により感染する。さまざまなバフ/デバフをもたらす。ワクチンの作成や汚染バイオームの追加などもある。|なし||
+|[Bloodmoon](https://www.curseforge.com/projects/226321)|まれにブラッド・ムーンと呼ばれる赤い月がのぼる夜がやってくる。敵モブの湧き上限が増加し、プレイヤーの近くにもスポーンする。|なし||
+|[Robotic Parts](https://www.curseforge.com/projects/283377)|体の一部をサイボーグ化した敵モブがスポーンするようになる。ドロップしたインプラントでプレイヤーも人体改造ができる。|なし||
+|[Ender Zoo](https://www.curseforge.com/minecraft/mc-mods/ender-zoo)|

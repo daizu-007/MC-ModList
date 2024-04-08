@@ -1,4 +1,4 @@
 # MC-ModList
-Mod list introduced by daizu
+雑多なMinecraftのModリストです。以下のリンクからアクセスできます。
 
-[日本語](README_jp.md)
+https://daizu-007.github.io/MC-ModList/home/
